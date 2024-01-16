@@ -28,7 +28,7 @@ setTimeout(() => {
 }, 1000);
 
 ```
-### 3. paste it in the console
+### 3. paste it in the console and hit Enter
 ![image](https://github.com/tanhkoi/AutoFillFormHuetch/assets/102349675/e9052788-62c6-41b3-82c9-dc467cfb2a8a)
 
 ### 4. repeat
