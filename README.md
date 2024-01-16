@@ -30,3 +30,4 @@ setTimeout(() => {
 ```
 ### 3. paste it in the console
 ### 4. repeat
+Tip: use the arrow button to get faster
