@@ -2,7 +2,7 @@
  
 # How to use
 
-### 1. open the screen like this:
+### 1. set up the screen like this:
 ![image](https://github.com/tanhkoi/AutoFillFormHuetch/assets/102349675/f96703ef-88be-4f3b-b18c-463ced998989)
 
 ### 2. copy the code below
