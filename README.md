@@ -1,11 +1,11 @@
-# AutoFillFormHutech
+# Fill Hutech Form Scripts
  
 # How to use
 
-### 1. set up the screen like this:
+### 1. Set up your screen like this:
 ![image](https://github.com/tanhkoi/AutoFillFormHuetch/assets/102349675/f96703ef-88be-4f3b-b18c-463ced998989)
 
-### 2. copy the code below
+### 2. Copy code here:
 ```
 const as = document.querySelectorAll('a[class="ng-star-inserted"]');
 as[0].click();
@@ -28,8 +28,8 @@ setTimeout(() => {
 }, 1000);
 
 ```
-### 3. paste it in the console and hit Enter
+### 3. Paste in the console and hit Enter
 ![image](https://github.com/tanhkoi/AutoFillFormHuetch/assets/102349675/e9052788-62c6-41b3-82c9-dc467cfb2a8a)
 
-### 4. repeat paste and hit Enter
+### 4. Repeat "Paste and hit Enter"
 Tip: use the arrow button to get faster
