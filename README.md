@@ -1,11 +1,12 @@
-# Fill Hutech Form Scripts
+# Script js tự động điền form đánh giá giáo viên Hutech
  
-# How to use
+## Cách sử dụng
 
-### 1. Set up your screen like this:
+### Bước 1. Đăng nhập vào [sinhvien.hutech.edu](https://sinhvien.hutech.edu.vn/):
+### Bước 2. Mở **Khảo sát->Hoạt động giảng dạy** và **Console** trên browser(Crtl + Shift + J):
 ![image](https://github.com/tanhkoi/AutoFillFormHuetch/assets/102349675/f96703ef-88be-4f3b-b18c-463ced998989)
 
-### 2. Copy code here:
+### Bước 3. Copy đoạn code sau và dán vào **Console** và nhấn **Enter**:
 ```
 const as = document.querySelectorAll('a[class="ng-star-inserted"]');
 as[0].click();
@@ -28,8 +29,8 @@ setTimeout(() => {
 }, 1000);
 
 ```
-### 3. Paste in the console and hit Enter
-![image](https://github.com/tanhkoi/AutoFillFormHuetch/assets/102349675/e9052788-62c6-41b3-82c9-dc467cfb2a8a)
+> [!NOTE]
+> Nếu browser không cho phép paste code, vui lòng dán `allow pasting` vào **Console**.
 
-### 4. Repeat "Paste and hit Enter"
-Tip: use the arrow button to get faster
+> [!IMPORTANT]
+> Đoạn code chỉ hoàn thành 1 form 1 lần chạy.
